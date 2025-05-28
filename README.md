@@ -13,6 +13,222 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ProjektNull&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+---
+
+## 📂 Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Craft-Connect</strong> 🚀<br/>
+      Building websites, mobile apps & AI models.<br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS"/>
+      <img src="https://img.shields.io/badge/Private-6C757D?style=flat-square" alt="Private"/>
+      <img src="https://img.shields.io/badge/Updated-Apr%202025-2196F3?style=flat-square" alt="Updated"/>
+    </td>
+    <td align="center">
+      <strong>EHR-System</strong> 🏥<br/>
+      Electronic Health Record system.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JS"/>
+      <img src="https://img.shields.io/badge/License-MIT-000000?style=flat-square" alt="MIT"/>
+      <img src="https://img.shields.io/badge/Updated-Mar%202025-2196F3?style=flat-square" alt="Updated"/>
+    </td>
+    <td align="center">
+      <strong>MyApp</strong> 💰<br/>
+      Expense tracker & budget planner.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JS"/>
+      <img src="https://img.shields.io/badge/License-MIT-000000?style=flat-square" alt="MIT"/>
+      <img src="https://img.shields.io/badge/Updated-Mar%202025-2196F3?style=flat-square" alt="Updated"/>
+    </td>
+    <td align="center">
+      <strong>busgo-client-app</strong> 🚌<br/>
+      Mobile client for BusGo.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JS"/>
+      <img src="https://img.shields.io/badge/License-MIT-000000?style=flat-square" alt="MIT"/>
+      <img src="https://img.shields.io/badge/Updated-Jan%202025-2196F3?style=flat-square" alt="Updated"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>SmartLabSensor</strong> 🧪<br/>
+      Raspberry Pi Pico sensor suite.<br/><br/>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
+      <img src="https://img.shields.io/badge/License-MIT-000000?style=flat-square" alt="MIT"/>
+      <img src="https://img.shields.io/badge/Updated-Dec%202024-2196F3?style=flat-square" alt="Updated"/>
+    </td>
+    <td align="center">
+      <strong>busgo-admin-web-app</strong> 🛠️<br/>
+      Admin dashboard for BusGo.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JS"/>
+      <img src="https://img.shields.io/badge/License-MIT-000000?style=flat-square" alt="MIT"/>
+      <img src="https://img.shields.io/badge/Updated-Nov%202024-2196F3?style=flat-square" alt="Updated"/>
+    </td>
+    <td align="center">
+      <strong>pharmalivery-backend</strong> 🔙<br/>
+      Backend API for Pharmalivery.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JS"/>
+      <img src="https://img.shields.io/badge/License-MIT-000000?style=flat-square" alt="MIT"/>
+      <img src="https://img.shields.io/badge/Updated-Oct%202024-2196F3?style=flat-square" alt="Updated"/>
+    </td>
+    <td align="center">
+      <strong>pharmalivery-frontend</strong> 🎨<br/>
+      Frontend for Pharmalivery.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JS"/>
+      <img src="https://img.shields.io/badge/License-MIT-000000?style=flat-square" alt="MIT"/>
+      <img src="https://img.shields.io/badge/Updated-Oct%202024-2196F3?style=flat-square" alt="Updated"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>busgo-backend</strong> 🔙<br/>
+      API services powering BusGo.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JS"/>
+      <img src="https://img.shields.io/badge/Private-6C757D?style=flat-square" alt="Private"/>
+      <img src="https://img.shields.io/badge/Updated-Oct%202024-2196F3?style=flat-square" alt="Updated"/>
+    </td>
+    <td align="center">
+      <strong>tranzbook</strong> 📚<br/>
+      Personal finance tracker (forked).<br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS"/>
+      <img src="https://img.shields.io/badge/Public-4FC08D?style=flat-square" alt="Public"/>
+      <img src="https://img.shields.io/badge/Updated-Aug%202024-2196F3?style=flat-square" alt="Updated"/>
+    </td>
+    <td align="center">
+      <strong>THE-CONVERGENCE</strong> 🔄<br/>
+      Marketplace for student services.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JS"/>
+      <img src="https://img.shields.io/badge/License-MIT-000000?style=flat-square" alt="MIT"/>
+      <img src="https://img.shields.io/badge/Updated-Aug%202024-2196F3?style=flat-square" alt="Updated"/>
+    </td>
+    <td align="center">
+      <strong>The-guys-real-estate</strong> 🏠<br/>
+      Property listing website.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JS"/>
+      <img src="https://img.shields.io/badge/License-MIT-000000?style=flat-square" alt="MIT"/>
+      <img src="https://img.shields.io/badge/Updated-Jul%202024-2196F3?style=flat-square" alt="Updated"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>Car-Rental</strong> 🚗<br/>
+      Online car rental platform.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JS"/>
+      <img src="https://img.shields.io/badge/License-MIT-000000?style=flat-square" alt="MIT"/>
+      <img src="https://img.shields.io/badge/Updated-Jun%202024-2196F3?style=flat-square" alt="Updated"/>
+    </td>
+    <td align="center">
+      <strong>SupportiveLearningWebsite</strong> 🏫<br/>
+      Progress-tracking site for educators & parents.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JS"/>
+      <img src="https://img.shields.io/badge/Private-6C757D?style=flat-square" alt="Private"/>
+      <img src="https://img.shields.io/badge/Updated-Mar%202024-2196F3?style=flat-square" alt="Updated"/>
+    </td>
+    <td align="center">
+      <strong>SupportiveLearningApp</strong> 📱<br/>
+      Assistive learning app for children.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JS"/>
+      <img src="https://img.shields.io/badge/License-MIT-000000?style=flat-square" alt="MIT"/>
+      <img src="https://img.shields.io/badge/Updated-Mar%202024-2196F3?style=flat-square" alt="Updated"/>
+    </td>
+    <td align="center">
+      <strong>tutorPulse</strong> 🎵<br/>
+      Feel the Rhythm of Learning.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JS"/>
+      <img src="https://img.shields.io/badge/License-MIT-000000?style=flat-square" alt="MIT"/>
+      <img src="https://img.shields.io/badge/Updated-Jan%202024-2196F3?style=flat-square" alt="Updated"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>FileSystem</strong> 📁<br/>
+      FAT16 file system implementation.<br/><br/>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
+      <img src="https://img.shields.io/badge/License-MIT-000000?style=flat-square" alt="MIT"/>
+      <img src="https://img.shields.io/badge/Updated-Nov%202023-2196F3?style=flat-square" alt="Updated"/>
+    </td>
+    <td align="center">
+      <strong>dna-sequence-analyzer</strong> 🧬<br/>
+      Genetic sequence analysis toolkit.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JS"/>
+      <img src="https://img.shields.io/badge/License-MIT-000000?style=flat-square" alt="MIT"/>
+      <img src="https://img.shields.io/badge/Updated-Nov%202023-2196F3?style=flat-square" alt="Updated"/>
+    </td>
+    <td align="center">
+      <strong>Interface</strong> 🎛️<br/>
+      SCC 212 course interface repo.<br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/License-MIT-000000?style=flat-square" alt="MIT"/>
+      <img src="https://img.shields.io/badge/Updated-Nov%202023-2196F3?style=flat-square" alt="Updated"/>
+    </td>
+    <td align="center">
+      <strong>SolarSystem</strong> ☀️<br/>
+      SCC 212 solar system simulation.<br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/License-MIT-000000?style=flat-square" alt="MIT"/>
+      <img src="https://img.shields.io/badge/Updated-Nov%202023-2196F3?style=flat-square" alt="Updated"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>Minesweeper-Game</strong> 🕹️<br/>
+      Classic Minesweeper implementation.<br/><br/>
+      <img src="https://img.shields.io/badge/License-MIT-000000?style=flat-square" alt="MIT"/>
+      <img src="https://img.shields.io/badge/Updated-Nov%202023-2196F3?style=flat-square" alt="Updated"/>
+    </td>
+    <td align="center">
+      <strong>concurrency</strong> 🔀<br/>
+      Coursework on concurrent programming.<br/><br/>
+      <img src="https://img.shields.io/badge/License-MIT-000000?style=flat-square" alt="MIT"/>
+      <img src="https://img.shields.io/badge/Updated-Oct%202023-2196F3?style=flat-square" alt="Updated"/>
+    </td>
+    <td align="center">
+      <strong>JavaThread</strong> 🧵<br/>
+      Java multithreading practice.<br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/License-MIT-000000?style=flat-square" alt="MIT"/>
+      <img src="https://img.shields.io/badge/Updated-Oct%202023-2196F3?style=flat-square" alt="Updated"/>
+    </td>
+    <td align="center">
+      <strong>MyPortfolio</strong> 💼<br/>
+      3D interactive personal portfolio.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JS"/>
+      <img src="https://img.shields.io/badge/Private-6C757D?style=flat-square" alt="Private"/>
+      <img src="https://img.shields.io/badge/Updated-Oct%202023-2196F3?style=flat-square" alt="Updated"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>bus-tracker</strong> 🚌<br/>
+      Navigate bus stops & routes around KNUST.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JS"/>
+      <img src="https://img.shields.io/badge/License-MIT-000000?style=flat-square" alt="MIT"/>
+      <img src="https://img.shields.io/badge/Updated-Aug%202023-2196F3?style=flat-square" alt="Updated"/>
+    </td>
+    <td align="center">
+      <strong>book-tracker</strong> 📖<br/>
+      CRUD app for personal book records.<br/><br/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+      <img src="https://img.shields.io/badge/Public-4FC08D?style=flat-square" alt="Public"/>
+      <img src="https://img.shields.io/badge/Updated-Aug%202023-2196F3?style=flat-square" alt="Updated"/>
+    </td>
+    <td align="center">
+      <strong>boltappclone</strong> ⚡<br/>
+      Clone of the Bolt ride-hailing app.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JS"/>
+      <img src="https://img.shields.io/badge/License-GPLv3-007EC6?style=flat-square&logo=gnu&logoColor=white" alt="GPLv3"/>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+---****
 [![](https://visitcount.itsvg.in/api?id=ProjektNull&icon=3&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
